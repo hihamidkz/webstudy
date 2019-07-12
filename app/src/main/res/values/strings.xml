@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мобильный СибГУТИ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_sign_out">Выйти</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="subject">Предмет</string>
+    <string name="mark">Оценка</string>
+    <string name="date_begin">Дата начала</string>
+    <string name="date_end">Дата окончания</string>
+    <string name="change">Изменить</string>
+</resources>
